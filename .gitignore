@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+/.svelte
+/.svelte-kit
+/build
+/functions
+
+pnpm-lock.yaml
+.vercel_build_output
+workers-site
+.cloudflare
+.svelte-kit/dev/generated/manifest.js
+
+.env
