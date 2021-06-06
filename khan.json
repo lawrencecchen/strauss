@@ -1,0 +1,825 @@
+{
+	"data": {
+		"learnMenuTopics": [
+			{
+				"slug": "math",
+				"translatedTitle": "Math: Pre-K - 8th grade",
+				"href": "/math/k-8-grades",
+				"isNew": false,
+				"children": [
+					{
+						"slug": "kids",
+						"translatedTitle": "Up to 1st grade (Khan Kids)",
+						"href": "/kids",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": true,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-2nd-grade-math",
+						"translatedTitle": "2nd grade",
+						"href": "/math/cc-2nd-grade-math",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-third-grade-math",
+						"translatedTitle": "3rd grade",
+						"href": "/math/cc-third-grade-math",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-fourth-grade-math",
+						"translatedTitle": "4th grade",
+						"href": "/math/cc-fourth-grade-math",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-fifth-grade-math",
+						"translatedTitle": "5th grade",
+						"href": "/math/cc-fifth-grade-math",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-sixth-grade-math",
+						"translatedTitle": "6th grade",
+						"href": "/math/cc-sixth-grade-math",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-seventh-grade-math",
+						"translatedTitle": "7th grade",
+						"href": "/math/cc-seventh-grade-math",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-eighth-grade-math",
+						"translatedTitle": "8th grade",
+						"href": "/math/cc-eighth-grade-math",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "k-8-grades",
+						"translatedTitle": "See all Math",
+						"href": "/math/k-8-grades",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					}
+				],
+				"__typename": "TopicBrowserCategory"
+			},
+			{
+				"slug": "math",
+				"translatedTitle": "Math: Get ready courses",
+				"href": "/math/get-ready-courses",
+				"isNew": false,
+				"children": [
+					{
+						"slug": "get-ready-for-3rd-grade",
+						"translatedTitle": "Get ready for 3rd grade",
+						"href": "/math/get-ready-for-3rd-grade",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "get-ready-for-4th-grade",
+						"translatedTitle": "Get ready for 4th grade",
+						"href": "/math/get-ready-for-4th-grade",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "get-ready-for-5th-grade",
+						"translatedTitle": "Get ready for 5th grade",
+						"href": "/math/get-ready-for-5th-grade",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "get-ready-for-6th-grade",
+						"translatedTitle": "Get ready for 6th grade",
+						"href": "/math/get-ready-for-6th-grade",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "get-ready-for-7th-grade",
+						"translatedTitle": "Get ready for 7th grade",
+						"href": "/math/get-ready-for-7th-grade",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "get-ready-for-8th-grade",
+						"translatedTitle": "Get ready for 8th grade",
+						"href": "/math/get-ready-for-8th-grade",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "get-ready-for-algebra-i",
+						"translatedTitle": "Get ready for Algebra 1",
+						"href": "/math/get-ready-for-algebra-i",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "get-ready-for-geometry",
+						"translatedTitle": "Get ready for Geometry",
+						"href": "/math/get-ready-for-geometry",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "get-ready-for-algebra-ii",
+						"translatedTitle": "Get ready for Algebra 2",
+						"href": "/math/get-ready-for-algebra-ii",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "get-ready-for-precalculus",
+						"translatedTitle": "Get ready for Precalculus",
+						"href": "/math/get-ready-for-precalculus",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "get-ready-for-ap-calc",
+						"translatedTitle": "Get ready for AP® Calculus",
+						"href": "/math/get-ready-for-ap-calc",
+						"isNew": true,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "get-ready-for-ap-statistics",
+						"translatedTitle": "Get ready for AP® Statistics",
+						"href": "/math/get-ready-for-ap-statistics",
+						"isNew": true,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					}
+				],
+				"__typename": "TopicBrowserCategory"
+			},
+			{
+				"slug": "math",
+				"translatedTitle": "Math: high school & college",
+				"href": "/math",
+				"isNew": false,
+				"children": [
+					{
+						"slug": "algebra",
+						"translatedTitle": "Algebra 1",
+						"href": "/math/algebra",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "geometry",
+						"translatedTitle": "Geometry",
+						"href": "/math/geometry",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "algebra2",
+						"translatedTitle": "Algebra 2",
+						"href": "/math/algebra2",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "trigonometry",
+						"translatedTitle": "Trigonometry",
+						"href": "/math/trigonometry",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "precalculus",
+						"translatedTitle": "Precalculus",
+						"href": "/math/precalculus",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "statistics-probability",
+						"translatedTitle": "Statistics & probability",
+						"href": "/math/statistics-probability",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-calculus-ab",
+						"translatedTitle": "AP®︎/College Calculus AB",
+						"href": "/math/ap-calculus-ab",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-calculus-bc",
+						"translatedTitle": "AP®︎/College Calculus BC",
+						"href": "/math/ap-calculus-bc",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-statistics",
+						"translatedTitle": "AP®︎/College Statistics",
+						"href": "/math/ap-statistics",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "multivariable-calculus",
+						"translatedTitle": "Multivariable calculus",
+						"href": "/math/multivariable-calculus",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "differential-equations",
+						"translatedTitle": "Differential equations",
+						"href": "/math/differential-equations",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "linear-algebra",
+						"translatedTitle": "Linear algebra",
+						"href": "/math/linear-algebra",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "math",
+						"translatedTitle": "See all Math",
+						"href": "/math",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					}
+				],
+				"__typename": "TopicBrowserCategory"
+			},
+			{
+				"slug": "test-prep",
+				"translatedTitle": "Test prep",
+				"href": "/test-prep",
+				"isNew": false,
+				"children": [
+					{
+						"slug": "sat",
+						"translatedTitle": "SAT",
+						"href": "/mission/sat",
+						"isNew": false,
+						"loggedOutHref": "/sat",
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "lsat",
+						"translatedTitle": "LSAT",
+						"href": "/prep/lsat/start",
+						"isNew": false,
+						"loggedOutHref": "/prep/lsat",
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "praxis",
+						"translatedTitle": "Praxis Core",
+						"href": "/prep/praxis-core/start",
+						"isNew": false,
+						"loggedOutHref": "/prep/praxis-core",
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					}
+				],
+				"__typename": "TopicBrowserCategory"
+			},
+			{
+				"slug": "science",
+				"translatedTitle": "Science",
+				"href": "/science",
+				"isNew": false,
+				"children": [
+					{
+						"slug": "hs-biology",
+						"translatedTitle": "High school biology beta",
+						"href": "/science/hs-biology",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "high-school-biology",
+						"translatedTitle": "High school biology",
+						"href": "/science/high-school-biology",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-biology",
+						"translatedTitle": "AP®︎/College Biology",
+						"href": "/science/ap-biology",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "hs-chemistry",
+						"translatedTitle": "High school chemistry beta",
+						"href": "/science/hs-chemistry",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-chemistry-beta",
+						"translatedTitle": "AP®︎/College Chemistry beta",
+						"href": "/science/ap-chemistry-beta",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-chemistry",
+						"translatedTitle": "AP®︎/College Chemistry",
+						"href": "/science/ap-chemistry",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "hs-physics",
+						"translatedTitle": "High school physics beta",
+						"href": "/science/hs-physics",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "high-school-physics",
+						"translatedTitle": "High school physics",
+						"href": "/science/high-school-physics",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-college-physics-1",
+						"translatedTitle": "AP®︎/College Physics 1 beta",
+						"href": "/science/ap-college-physics-1",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-physics-1",
+						"translatedTitle": "AP®︎/College Physics 1",
+						"href": "/science/ap-physics-1",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-college-environmental-science",
+						"translatedTitle": "AP®︎/College Environmental Science beta",
+						"href": "/science/ap-college-environmental-science",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "science",
+						"translatedTitle": "See all Science",
+						"href": "/science",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					}
+				],
+				"__typename": "TopicBrowserCategory"
+			},
+			{
+				"slug": "computing",
+				"translatedTitle": "Computing",
+				"href": "/computing",
+				"isNew": false,
+				"children": [
+					{
+						"slug": "computer-programming",
+						"translatedTitle": "Computer programming",
+						"href": "/computing/computer-programming",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-computer-science-principles",
+						"translatedTitle": "AP®︎/College Computer Science Principles",
+						"href": "/computing/ap-computer-science-principles",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "computing",
+						"translatedTitle": "See all Computing",
+						"href": "/computing",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					}
+				],
+				"__typename": "TopicBrowserCategory"
+			},
+			{
+				"slug": "humanities",
+				"translatedTitle": "Arts & humanities",
+				"href": "/humanities",
+				"isNew": false,
+				"children": [
+					{
+						"slug": "us-history",
+						"translatedTitle": "US history",
+						"href": "/humanities/us-history",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-us-history",
+						"translatedTitle": "AP®︎/College US History",
+						"href": "/humanities/ap-us-history",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "us-government-and-civics",
+						"translatedTitle": "US government and civics",
+						"href": "/humanities/us-government-and-civics",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-us-government-and-politics",
+						"translatedTitle": "AP®︎/College US Government & Politics",
+						"href": "/humanities/ap-us-government-and-politics",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "whp-origins",
+						"translatedTitle": "World History Project - Origins",
+						"href": "/humanities/whp-origins",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "whp-1750",
+						"translatedTitle": "World History Project - 1750",
+						"href": "/humanities/whp-1750",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "art-history",
+						"translatedTitle": "Art history",
+						"href": "/humanities/art-history",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-art-history",
+						"translatedTitle": "AP®︎/College Art History",
+						"href": "/humanities/ap-art-history",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "humanities",
+						"translatedTitle": "See all Arts & Humanities",
+						"href": "/humanities",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					}
+				],
+				"__typename": "TopicBrowserCategory"
+			},
+			{
+				"slug": "economics-finance-domain",
+				"translatedTitle": "Economics",
+				"href": "/economics-finance-domain",
+				"isNew": false,
+				"children": [
+					{
+						"slug": "macroeconomics",
+						"translatedTitle": "Macroeconomics",
+						"href": "/economics-finance-domain/macroeconomics",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-macroeconomics",
+						"translatedTitle": "AP®︎/College Macroeconomics",
+						"href": "/economics-finance-domain/ap-macroeconomics",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "microeconomics",
+						"translatedTitle": "Microeconomics",
+						"href": "/economics-finance-domain/microeconomics",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ap-microeconomics",
+						"translatedTitle": "AP®︎/College Microeconomics",
+						"href": "/economics-finance-domain/ap-microeconomics",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "economics-finance-domain",
+						"translatedTitle": "See all Economics",
+						"href": "/economics-finance-domain",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					}
+				],
+				"__typename": "TopicBrowserCategory"
+			},
+			{
+				"slug": "ela",
+				"translatedTitle": "Reading & language arts",
+				"href": "/ela",
+				"isNew": false,
+				"children": [
+					{
+						"slug": "kids",
+						"translatedTitle": "Up to 1st grade (Khan Kids)",
+						"href": "/kids",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": true,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-2nd-reading-vocab",
+						"translatedTitle": "2nd grade",
+						"href": "/ela/cc-2nd-reading-vocab",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-3rd-reading-vocab",
+						"translatedTitle": "3rd grade",
+						"href": "/ela/cc-3rd-reading-vocab",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-4th-reading-vocab",
+						"translatedTitle": "4th grade",
+						"href": "/ela/cc-4th-reading-vocab",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-5th-reading-vocab",
+						"translatedTitle": "5th grade",
+						"href": "/ela/cc-5th-reading-vocab",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-6th-reading-vocab",
+						"translatedTitle": "6th grade",
+						"href": "/ela/cc-6th-reading-vocab",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-7th-reading-vocab",
+						"translatedTitle": "7th grade",
+						"href": "/ela/cc-7th-reading-vocab",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-8th-reading-vocab",
+						"translatedTitle": "8th grade",
+						"href": "/ela/cc-8th-reading-vocab",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "cc-9th-reading-vocab",
+						"translatedTitle": "9th grade",
+						"href": "/ela/cc-9th-reading-vocab",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "ela",
+						"translatedTitle": "See all Reading & Language Arts",
+						"href": "/ela",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					}
+				],
+				"__typename": "TopicBrowserCategory"
+			},
+			{
+				"slug": "college-careers-more",
+				"translatedTitle": "Life skills",
+				"href": "/college-careers-more",
+				"isNew": false,
+				"children": [
+					{
+						"slug": "kids",
+						"translatedTitle": "Social & emotional learning (Khan Kids)",
+						"href": "/kids",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": true,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "career-content",
+						"translatedTitle": "Careers",
+						"href": "/college-careers-more/career-content",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "personal-finance",
+						"translatedTitle": "Personal finance",
+						"href": "/college-careers-more/personal-finance",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "learnstorm-growth-mindset-activities-us",
+						"translatedTitle": "Growth mindset",
+						"href": "/partner-content/learnstorm-growth-mindset-activities-us",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					},
+					{
+						"slug": "college-careers-more",
+						"translatedTitle": "See all Life Skills",
+						"href": "/college-careers-more",
+						"isNew": false,
+						"loggedOutHref": null,
+						"nonContentLink": false,
+						"__typename": "TopicBrowserLink"
+					}
+				],
+				"__typename": "TopicBrowserCategory"
+			}
+		]
+	}
+}

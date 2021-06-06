@@ -1,5 +1,5 @@
 <script>
-	const content = [
+	const topics = [
 		{
 			name: 'Algebra Foundation',
 			topics: [
@@ -85,14 +85,14 @@
 				<h2 class="py-2 border-b font-medium">Course Summary</h2>
 
 				<ul class="space-y-3 py-3 text-sm text-gray-700">
-					{#each content as { name }}
+					{#each topics as { name }}
 						<li>{name}</li>
 					{/each}
 				</ul>
 			</div>
 			<div class="col-span-3">
 				<ul class="space-y-4">
-					{#each content as { name, topics }}
+					{#each topics as { name, topics }}
 						<li class="p-5 bg-white border rounded space-y-4">
 							<div class="flex items-center">
 								<div class="rounded-full bg-indigo-400 w-7 h-7 mr-3" />
