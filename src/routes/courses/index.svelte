@@ -67,7 +67,6 @@
 			]
 		}
 	];
-
 </script>
 
 <div class="flex flex-col flex-grow">

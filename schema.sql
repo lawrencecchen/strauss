@@ -6,7 +6,6 @@ CREATE TABLE topics (
   slug text,
   parent_id uuid,
   item_id uuid,
-
 );
 
 CREATE UNIQUE INDEX
@@ -48,7 +47,8 @@ CREATE OR REPLACE RECURSIVE VIEW topics_tree (
   parent_id,
   item_id,
   slug,
-  path
+  path,
+  slug_arr
 ) AS
   SELECT
     t1.id,
@@ -56,7 +56,8 @@ CREATE OR REPLACE RECURSIVE VIEW topics_tree (
     t1.parent_id,
     t1.item_id,
     t1.slug,
-    t1.slug as path
+    t1.slug as path,
+    array[t1.slug]::text[] as slug_arr
   FROM
     topics t1
   WHERE
@@ -68,7 +69,8 @@ CREATE OR REPLACE RECURSIVE VIEW topics_tree (
       t2.parent_id,
       t2.item_id,
       t2.slug,
-      t_tree.path || '/' || t2.slug as path
+      t_tree.path || '/' || t2.slug as path,
+      t_tree.slug_arr || t2.slug as slug_arr
     FROM
       topics t2
     INNER JOIN
