@@ -12,7 +12,7 @@
 <div class="p-5">
 	<div>
 		<h1 class="font-bold">Courses</h1>
-		<a href="/course">Algebra 1</a>
+		<a href="/courses/algebra">Algebra 1</a>
 	</div>
 	{#if !$auth}
 		<button on:click={signIn}>Sign in with GitHub</button>

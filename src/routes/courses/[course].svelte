@@ -17,7 +17,7 @@
 				[data[0].parent_id]: true
 			}
 		});
-		console.log(data, topics);
+		// console.log(data, topics);
 
 		if (data) {
 			return {
@@ -37,6 +37,7 @@
 
 <script>
 	export let subject;
+	console.log(subject);
 
 </script>
 
