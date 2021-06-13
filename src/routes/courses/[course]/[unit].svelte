@@ -45,11 +45,13 @@
 		</div>
 	</div>
 
-	<div class="bg-gray-50 flex-grow px-4">
+	<div class="bg-gray-50 flex-grow p-4">
 		<ul class="space-y-4">
-			{#each subject.topics as { title, slug }}
+			{#each subject.topics as { title, slug, path }}
 				<li class="p-5 bg-white border rounded space-y-4">
-					{title}
+					<a href="/courses/{path}">
+						{title}
+					</a>
 				</li>
 			{/each}
 		</ul>
