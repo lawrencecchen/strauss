@@ -1,0 +1,48 @@
+lisp is cool
+
+<div>
+  </h1>
+    jsdlakfjas
+  </h1>
+</div>
+
+s-expression
+(div
+  (h1
+    (jsdlakfsdja)))
+
+HTML is XML and XML is a treateeeeeeey
+
+express ANY code as a treee
+
+### LISP BIG MAN IDEAS
+
+<factorial>
+  <if>
+    <zerop>
+  </if>
+</factorial>
+
+"Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot."
+
+
+"Greenspun's Tenth Rule of Programming: any sufficiently complicated C or Fortran program contains an ad hoc informally-specified bug-ridden slow implementation of half of Common Lisp."
+
+- Philip Greenspun
+
+(defun factorial (x)
+   (if (zerop x)
+       1
+       (* x (factorial (- x 1)))))
+
+basically a list
+
+intermediate format
+from google doc -> our custom html
+- table of contents
+- other metadata
+
+
+Things we need:
+- Parse json into sexprs
+- Parse sexprs into the DOM

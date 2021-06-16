@@ -4,7 +4,7 @@
 	import supabase from '$lib/supabase';
 
 	async function signIn() {
-		await supabase.auth.signIn({ provider: 'github' });
+		await supabase.auth.signIn({ provider: 'google' });
 	}
 
 </script>
@@ -15,7 +15,7 @@
 		<a href="/courses/algebra">Algebra 1</a>
 	</div>
 	{#if !$auth}
-		<button on:click={signIn}>Sign in with GitHub</button>
+		<button on:click={signIn}>Sign in with Google</button>
 	{:else}
 		Hello, {$auth.user.email}!
 		<button on:click={() => supabase.auth.signOut()}>Sign Out</button>

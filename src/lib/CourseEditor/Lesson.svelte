@@ -44,11 +44,11 @@
 	<div class="rounded-b space-x-4 bg-gray-50 border-t flex items-center justify-start px-6 py-3">
 		<button
 			on:click={addLesson}
-			class="inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-xs font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+			class="inline-flex justify-center py-2 px-3 border border-transparent shadow-sm text-xs font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
 			>Add new lesson
 		</button>
 		<button
-			class="flex px-3 py-2 text-sm justify-center items-center transition border rounded-md text-gray-600  dark svelte-1fb58l0"
+			class="flex px-3 py-2 text-xs justify-center items-center transition border rounded-md text-gray-600  dark svelte-1fb58l0"
 			type="submit">Save</button
 		>
 	</div>

@@ -69,7 +69,7 @@
 </div>
 
 <div class="bg-gray-50 px-4">
-	<div class="py-10 max-w-6xl w-full mx-auto md:grid md:grid-cols-3 md:gap-6">
+	<div class="py-10 max-w-6xl w-full mx-auto space-y-6">
 		<div class="md:col-span-1">
 			<div class="">
 				<h3 class="text-lg font-medium leading-6 text-gray-900">Course Editor</h3>
