@@ -12,3 +12,4 @@ workers-site
 .svelte-kit/dev/generated/manifest.js
 
 .env
+venv

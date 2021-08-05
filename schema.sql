@@ -4,6 +4,7 @@ CREATE TABLE topics (
   updated_at timestamp with time zone DEFAULT timezone('utc'::text, now()) NOT NULL,
   title text NOT NULL,
   slug text,
+  doc_url text,
   parent_id uuid,
   item_id uuid,
 );
@@ -13,7 +14,7 @@ unique_parent_id_slug_idx ON topics
 (COALESCE(parent_id, '00000000-0000-0000-0000-000000000000'), slug);
 
 ALTER TABLE topics
-ADD CONSTRAINT CHECK
+ADD CONSTRAINT topics_unique_root_slug_idx CHECK
   (parent_id <> '00000000-0000-0000-0000-000000000000');
 
 ALTER TABLE topics

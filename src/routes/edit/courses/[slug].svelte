@@ -17,7 +17,6 @@
 				[data[0].parent_id]: true
 			}
 		});
-		console.log(topics);
 
 		if (data) {
 			return {
@@ -27,15 +26,12 @@
 			};
 		}
 	};
-
 </script>
 
 <script>
 	export let course;
 	import Lesson from '$lib/CourseEditor/Lesson.svelte';
 	import { v4 as uuidv4 } from 'uuid';
-
-	console.log(course);
 
 	function addUnit() {
 		course.topics = [
@@ -55,7 +51,6 @@
 	//   const unitIndex =
 	//   // const target = course.topics.
 	// }
-
 </script>
 
 <div class="flex flex-col flex-grow">

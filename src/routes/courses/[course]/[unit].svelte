@@ -17,7 +17,7 @@
 				[data[0].parent_id]: true
 			}
 		});
-		console.log(topics);
+		// console.log(topics);
 
 		if (data) {
 			return {
@@ -27,14 +27,10 @@
 			};
 		}
 	};
-
 </script>
 
 <script>
-	console.log('hai');
 	export let subject;
-	console.log(subject);
-
 </script>
 
 <div class="flex flex-col flex-grow">

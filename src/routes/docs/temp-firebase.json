@@ -1,0 +1,27 @@
+{
+	"uid": "4isojXFyjZg8WolLcwcOCZB4Su23",
+	"email": "lawrencechen2002@gmail.com",
+	"emailVerified": true,
+	"displayName": "Lawrence Chen",
+	"isAnonymous": false,
+	"photoURL": "https://lh3.googleusercontent.com/a/AATXAJw5PKr3Gm9bnFRdxLuzgtjX94jbCsArItrcK2wB4Q=s96-c",
+	"providerData": [
+		{
+			"providerId": "google.com",
+			"uid": "114609347520974957949",
+			"displayName": "Lawrence Chen",
+			"email": "lawrencechen2002@gmail.com",
+			"phoneNumber": null,
+			"photoURL": "https://lh3.googleusercontent.com/a/AATXAJw5PKr3Gm9bnFRdxLuzgtjX94jbCsArItrcK2wB4Q=s96-c"
+		}
+	],
+	"stsTokenManager": {
+		"refreshToken": "AGEhc0DG1VRmZ_1Wr6h-UMNpiJlqeb0WrfwEDFFY4-Ne8dsYEbgxkdo3cvCBvJGjEeuerEEpoyrakmgO3Bbc_jYEQd_pov_OLe17xVPRuEDAEcqTckYSzDYeosO5C4v75FnU5zFHKKCSzSEOxExp4hMQaDZWN7JRX7DRGbrJR3JQg5_fkxkkUD_0Iy1hpV14l-mYhmC9aAitR-Rv4i2KEqFntRz5MdwrcDLr8fwq9W8lZXzlhDunNHgmg67Ou_vqsr8xo6FYCh8xKkSZXlDsRWRHDEY3u6wh4OgrSdon52XkpgOKXuz4inBRS58jAsT0B7pXUn-1JktdJM-xHr3z8tcQY1PMMcBseutpzikQsNyrdgH5A7SJR7JNBCEP2cJzxDwdwhyNnr-UibVzUx0usR1KXGjy1GtAijTCj1z1fp1lC2Gsklaixfw",
+		"accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijg4ZGYxMzgwM2I3NDM2NjExYWQ0ODE0NmE4ZGExYjA3MTg2ZmQxZTkiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiTGF3cmVuY2UgQ2hlbiIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQVRYQUp3NVBLcjNHbTlibkZSZHhMdXpndGpYOTRqYkNzQXJJdHJjSzJ3QjRRPXM5Ni1jIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL3N0cmF1c3MtMzE3MDA0IiwiYXVkIjoic3RyYXVzcy0zMTcwMDQiLCJhdXRoX3RpbWUiOjE2MjQ4NjAzNzYsInVzZXJfaWQiOiI0aXNvalhGeWpaZzhXb2xMY3djT0NaQjRTdTIzIiwic3ViIjoiNGlzb2pYRnlqWmc4V29sTGN3Y09DWkI0U3UyMyIsImlhdCI6MTYyNDg2MDM3NiwiZXhwIjoxNjI0ODYzOTc2LCJlbWFpbCI6Imxhd3JlbmNlY2hlbjIwMDJAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZ29vZ2xlLmNvbSI6WyIxMTQ2MDkzNDc1MjA5NzQ5NTc5NDkiXSwiZW1haWwiOlsibGF3cmVuY2VjaGVuMjAwMkBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.CEg3fIh6E4WDy8jiQCR-5B4Gct2wIr2vAGwTt-1qRt-kn3XxkXRTCqHc7_ytwU9ilRc0sTLSwE3EDQklg9e95diAPVZiisdj_BDr1cF_qlenbD9LS17uwwPxdRMHrmzVR_7fpbiwdFYOJh6MUqo7TdP0QqDlFk5kS7oNMR0sWZvNzV17AwPU1oJ-VOkZpE1eZ8d1-y3jZa8BBzfWy2-h1QE6XDVma0rHToPpWWGvBwLOfBE0XYKD_GKrFkaMMS61quPvY34lU4Edf2rAUYh0V_Z02n5nIT1nhfHiJugGTZe8Y28-tgwEUKF43hsw15Csgz8niyBNt88X7RTQoTOT4Q",
+		"expirationTime": 1624863976852
+	},
+	"createdAt": "1624860376716",
+	"lastLoginAt": "1624860376716",
+	"apiKey": "AIzaSyDRyQ_kOmZjjiEnlVpcsyW3R0OqoeFp3eA",
+	"appName": "[DEFAULT]"
+}
